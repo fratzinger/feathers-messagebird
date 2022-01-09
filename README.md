@@ -3,12 +3,9 @@
 A [feathers.js](https://feathersjs.com/) service adapter for [messagebird](https://messagebird.com).
 
 [![npm](https://img.shields.io/npm/v/feathers-messagebird)](https://www.npmjs.com/package/feathers-messagebird)
-[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/fratzinger/feathers-messagebird/Node.js%20CI)](https://github.com/fratzinger/feathers-messagebird/actions/workflows/node.js.yml?query=branch%3Amain++)
-[![Code Climate maintainability](https://img.shields.io/codeclimate/maintainability/fratzinger/feathers-messagebird)](https://codeclimate.com/github/fratzinger/feathers-messagebird)
-[![Code Climate coverage](https://img.shields.io/codeclimate/coverage/fratzinger/feathers-messagebird)](https://codeclimate.com/github/fratzinger/xxx)
-[![David](https://img.shields.io/david/fratzinger/feathers-messagebird)](https://david-dm.org/fratzinger/feathers-messagebird)
+[![libraries.io](https://img.shields.io/librariesio/release/npm/feathers-messagebird)](https://libraries.io/npm/feathers-messagebird)
 [![npm](https://img.shields.io/npm/dm/feathers-messagebird)](https://www.npmjs.com/package/feathers-messagebird)
-[![GitHub license](https://img.shields.io/github/license/fratzinger/xxx)](https://github.com/fratzinger/feathers-messagebird/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/fratzinger/feathers-messagebird)](https://github.com/fratzinger/feathers-messagebird/blob/master/LICENSE)
 
 
 
