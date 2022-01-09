@@ -1,6 +1,6 @@
 {
   "name": "feathers-messagebird",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Messagebird adapter for feathers",
   "author": "fratzinger",
   "homepage": "https://github.com/fratzinger/feathers-messagebird",
